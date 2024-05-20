@@ -73,7 +73,6 @@ Semantic Role Labeling (SRL) is a critical task in Natural Language Processing (
 ## Future Work
 
 - **Exploring Different BERT Layers:** To improve semantic feature representation by testing various BERT layers.
-- **Optimizing Models:** Balancing computational efficiency with semantic richness for streamlined and effective SRL models.
 
 ## Directory Structure
 
